@@ -1,0 +1,4 @@
+,Gas,Model_name,CV_r2,CV_mse,test_r2_total_model,test_mse_by_total_model,test_r2_separa_model,test_mse_separa_model,best_param,kpg_pca_mse
+0,Methane,ETR_separate,0.7559338092527312,2.781448865517432,-1,-1,0.7195269510963229,1.9794939047511502,{'n_estimators': 200},0.039860149248419255
+1,Methane,LGBM_separate,0.6772062640084464,3.3771472646053815,-1,-1,0.7277184150146194,2.0455797708498085,"{'learning_rate': 0.5, 'n_estimators': 200, 'num_leaves': 10}",0.039860149248419255
+2,Methane,BGLGBM_separate,0.6986162862001052,3.2261963208363342,-1,-1,0.750447350002361,1.8458846696514504,{'n_estimators': 50},0.039860149248419255

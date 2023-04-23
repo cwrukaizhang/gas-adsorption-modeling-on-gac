@@ -1,0 +1,2 @@
+,Gas,Model_name,CV_r2,CV_mse,test_r2_total_model,test_mse_by_total_model,test_r2_separa_model,test_mse_separa_model,test_r2_separa_model_m,test_mse_separa_model_m,best_param
+0,CFCs,BGLGBM_separate,0.5211933667006537,0.9517028778545603,-1,-1,0.8552907599082895,1.4399747276161952,0.8527599303787302,1.3095371101620357,{'n_estimators': 10}

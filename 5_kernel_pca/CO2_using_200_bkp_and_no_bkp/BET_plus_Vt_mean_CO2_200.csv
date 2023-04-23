@@ -1,0 +1,4 @@
+,CV_r2,CV_mse,test_r2_separa_model,test_mse_separa_model,test_r2_separa_model_m,test_mse_separa_model_m
+GBR,0.85,1.58,0.85,2.16,0.85,1.51
+LGBM,0.85,1.58,0.85,1.99,0.86,1.24
+BLGBM,0.86,1.50,0.85,1.86,0.87,1.13

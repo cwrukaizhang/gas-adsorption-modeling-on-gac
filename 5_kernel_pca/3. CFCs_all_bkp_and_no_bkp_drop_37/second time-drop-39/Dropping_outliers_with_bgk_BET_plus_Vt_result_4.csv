@@ -1,0 +1,4 @@
+,Gas,Model_name,CV_r2,CV_mse,test_r2_total_model,test_mse_by_total_model,test_r2_separa_model,test_mse_separa_model,test_r2_separa_model_m,test_mse_separa_model_m,best_param
+0,CFCs,GBR_separate,0.9384622180427529,1.0874033619258092,-1,-1,0.9463453498553228,0.5415405979990832,0.9192770028202772,0.5172655334547158,"{'learning_rate': 0.1, 'n_estimators': 200}"
+1,CFCs,LGBM_separate,0.9521025583353424,0.9516674665739586,-1,-1,0.9528123563051294,0.50815453611289,0.9354025961940706,0.42886097787648847,"{'learning_rate': 0.5, 'n_estimators': 200, 'num_leaves': 20}"
+2,CFCs,BGLGBM_separate,0.9553470322523865,0.8813227068845174,-1,-1,0.9484673995673629,0.520669221215007,0.9331047138856012,0.4202357989784464,{'n_estimators': 50}

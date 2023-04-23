@@ -1,0 +1,54 @@
+Trans-2-ButeneI Failed
+Trans-piperylene Failed
+Tribromomethane Failed
+Trichloromethane Failed
+Trifluoroethanol Failed
+Tetrachloroethene  Failed
+Sulfur trifluoride Failed
+Carbon monoxide Failed
+
+R-115 /R-124 /R-125 /R-134A /R-21 /R-22 /R-23 /R-410A /R-507A
+
+
+Propene
+Nitrogen Dioxide
+Nitric oxide
+N-propane
+N-Propanal
+N-Perfluoroethane
+Isoprene
+Isobutene
+Hydrogen Chloride
+Cis-2-Butene
+Cis-piperylene
+Carbon Tetrafluoride
+Chlorine
+1-propyne
+1-butene
+NOx 
+Ethylene
+Acetylene
+
+
+Helium Failed
+NH3 50 Very-limited
+H2S 80 Works-limited
+N2O Works
+CFCs Works
+Formaldehyde Works-limited
+N2O Works
+Hydrogen Works
+CO2, adsorption, capture, sequestration Works.
+HFC Works
+Halon Not Works
+Oxygen 50 Works-limited
+Sulfur Hexafluoride Works
+Ethane Works
+
+VOCs
+light Hydrocarbon
+Vinyl chloride Failed
+C2H4 40 Failed
+
+
+

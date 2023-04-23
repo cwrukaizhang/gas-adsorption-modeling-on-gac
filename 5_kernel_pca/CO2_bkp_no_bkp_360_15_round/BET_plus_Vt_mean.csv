@@ -1,0 +1,8 @@
+,CV_r2,CV_mse,test_r2_separa_model,test_mse_separa_model,test_r2_separa_model_m,test_mse_separa_model_m,
+GBR,0.94,0.81,0.94,0.74,0.93,0.63,
+ETR,0.94,0.85,0.94,0.81,0.92,0.75,
+LGBM,0.94,0.83,0.94,0.77,0.93,0.64,
+BLGBM,0.94,0.74,0.94,0.69,0.94,0.58,0.76
+,,,,,,,
+,,,,,,MSE,
+,,,,,Reserved24,2.55,1.60

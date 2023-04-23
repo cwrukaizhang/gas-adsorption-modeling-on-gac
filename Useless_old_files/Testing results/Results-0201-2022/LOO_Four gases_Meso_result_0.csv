@@ -1,0 +1,9 @@
+,Gas,Model_name,CV_r2,CV_mse,test_r2_total_model,test_mse_by_total_model,test_r2_separa_model,test_mse_separa_model,best_param
+0,CO2,LGBM_total,0.912886372,1.186335993,0.914609341,1.162121173,0.930376073,1.067760212,"{'learning_rate': 0.01, 'n_estimators': 300, 'num_leaves': 30}"
+1,CFCs,LGBM_total,0.912886372,1.186335993,0.914609341,1.162121173,0.842116154,1.752093025,"{'learning_rate': 0.01, 'n_estimators': 300, 'num_leaves': 30}"
+2,Methane,LGBM_total,0.912886372,1.186335993,0.914609341,1.162121173,0.887413858,1.364405129,"{'learning_rate': 0.01, 'n_estimators': 300, 'num_leaves': 30}"
+3,E&E,LGBM_total,0.912886372,1.186335993,0.914609341,1.162121173,0.859763659,1.10273379,"{'learning_rate': 0.01, 'n_estimators': 300, 'num_leaves': 30}"
+4,CO2,LGBM_separate,0.946496605,0.814914527,-1,-1,0.947952407,0.798207623,"{'learning_rate': 0.1, 'n_estimators': 50, 'num_leaves': 40}"
+5,CFCs,LGBM_separate,0.941362924,0.552179151,-1,-1,0.938663038,0.680678021,"{'learning_rate': 0.1, 'n_estimators': 300, 'num_leaves': 10}"
+6,Methane,LGBM_separate,0.916730351,0.948512336,-1,-1,0.929834142,0.850323631,"{'learning_rate': 0.1, 'n_estimators': 250, 'num_leaves': 10}"
+7,E&E,LGBM_separate,0.942684712,0.448954026,-1,-1,0.944740562,0.434526804,"{'learning_rate': 0.1, 'n_estimators': 100, 'num_leaves': 10}"

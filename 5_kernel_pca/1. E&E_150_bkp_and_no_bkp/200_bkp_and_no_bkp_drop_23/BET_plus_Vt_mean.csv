@@ -1,0 +1,4 @@
+,CV_r2,CV_mse,test_r2_separa_model,test_mse_separa_model,test_r2_separa_model_m,test_mse_separa_model_m
+0,0.88,0.90,0.88,0.79,0.88,0.71
+1,0.88,0.88,0.88,0.76,0.88,0.72
+2,0.89,0.83,0.89,0.72,0.88,0.68

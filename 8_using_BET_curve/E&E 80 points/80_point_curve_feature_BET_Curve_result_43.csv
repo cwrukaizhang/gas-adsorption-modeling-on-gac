@@ -1,0 +1,2 @@
+,Gas,Model_name,CV_r2,CV_mse,test_r2_total_model,test_mse_by_total_model,test_r2_separa_model,test_mse_separa_model,best_param
+0,E&E,LGBM_separate,0.9600959675265193,0.2803179205385141,-1,-1,0.9535005750088354,0.3317096379671782,"{'learning_rate': 0.1, 'n_estimators': 300, 'num_leaves': 30}"

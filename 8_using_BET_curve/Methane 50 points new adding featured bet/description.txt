@@ -1,0 +1,2 @@
+This result is based on new bet curve data that considered the contribution of different parts of the original BET curve; more specifically, the new bet curve is obtained by assign mnore data point in the initial stage the end of the original 
+curve<20 points for the region min to min+0.3 and 20 points for max-0.3 to max; the middle region has  ten data points>. however, there is no improvements at all.

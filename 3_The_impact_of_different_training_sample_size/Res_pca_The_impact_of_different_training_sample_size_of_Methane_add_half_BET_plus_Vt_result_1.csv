@@ -1,0 +1,301 @@
+,Gas,Model_name,CV_r2,CV_mse,test_r2_total_model,test_mse_by_total_model,test_r2_separa_model,test_mse_separa_model,best_param,kpg_pca_mse
+0,Methane,GBR_separate,0.901774456,0.98883508,-1,-1,0.869975318,0.994289287,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028162977
+0,Methane,ETR_separate,0.912285178,0.894198963,-1,-1,0.906396221,0.69528443,{'n_estimators': 150},0.028162977
+0,Methane,LGBM_separate,0.912622973,0.881615845,-1,-1,0.904269159,0.721435989,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028162977
+1,Methane,GBR_separate,0.904420596,0.983134711,-1,-1,0.891903988,0.856336087,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028880642
+1,Methane,ETR_separate,0.915520279,0.869097874,-1,-1,0.910712534,0.668139748,{'n_estimators': 150},0.028880642
+1,Methane,LGBM_separate,0.912929254,0.890180936,-1,-1,0.904207439,0.746405056,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028880642
+0,Methane,GBR_separate,0.899921282,0.976936859,-1,-1,0.898893781,0.955782306,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028300145
+0,Methane,ETR_separate,0.918896174,0.800944628,-1,-1,0.920574615,0.697021372,{'n_estimators': 150},0.028300145
+0,Methane,LGBM_separate,0.920343501,0.782785462,-1,-1,0.923357919,0.693881233,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028300145
+1,Methane,GBR_separate,0.890269351,1.08128585,-1,-1,0.903898377,0.90967034,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028016331
+1,Methane,ETR_separate,0.908487409,0.903549879,-1,-1,0.920639861,0.706529949,{'n_estimators': 150},0.028016331
+1,Methane,LGBM_separate,0.912526013,0.863520244,-1,-1,0.926966203,0.674919455,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028016331
+0,Methane,GBR_separate,0.89767809,0.963563982,-1,-1,0.858275854,1.269143069,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027255754
+0,Methane,ETR_separate,0.905565348,0.882626988,-1,-1,0.859598576,1.087496329,{'n_estimators': 150},0.027255754
+0,Methane,LGBM_separate,0.912520419,0.823489933,-1,-1,0.884282063,0.964326553,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027255754
+1,Methane,GBR_separate,0.88539727,1.094105239,-1,-1,0.854179633,1.247243062,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027517675
+1,Methane,ETR_separate,0.902570531,0.930938725,-1,-1,0.854904855,1.108730549,{'n_estimators': 120},0.027517675
+1,Methane,LGBM_separate,0.897246195,0.981401468,-1,-1,0.866829801,1.055144472,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027517675
+0,Methane,GBR_separate,0.896064369,1.043380766,-1,-1,0.879503774,1.112588291,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029062407
+0,Methane,ETR_separate,0.909064892,0.919518823,-1,-1,0.885363683,0.994133266,{'n_estimators': 150},0.029062407
+0,Methane,LGBM_separate,0.908473103,0.913395118,-1,-1,0.893927543,0.953751594,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029062407
+1,Methane,GBR_separate,0.893211834,1.090895006,-1,-1,0.890072211,0.979062066,"{'learning_rate': 0.5, 'n_estimators': 200}",0.0304218
+1,Methane,ETR_separate,0.912256042,0.895044917,-1,-1,0.882463218,1.000944065,{'n_estimators': 150},0.0304218
+1,Methane,LGBM_separate,0.906111323,0.957478644,-1,-1,0.902864783,0.874824263,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.0304218
+0,Methane,GBR_separate,0.898366867,0.965237785,-1,-1,0.897792762,1.099562482,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028897958
+0,Methane,ETR_separate,0.91074086,0.848369333,-1,-1,0.884713536,1.204498567,{'n_estimators': 150},0.028897958
+0,Methane,LGBM_separate,0.910956218,0.848301324,-1,-1,0.903890854,1.044473207,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028897958
+1,Methane,GBR_separate,0.8974552,0.961558779,-1,-1,0.900094081,1.08659242,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028950064
+1,Methane,ETR_separate,0.901768777,0.919861733,-1,-1,0.878391459,1.259379484,{'n_estimators': 150},0.028950064
+1,Methane,LGBM_separate,0.904045289,0.901199204,-1,-1,0.898760034,1.096300177,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028950064
+0,Methane,GBR_separate,0.895140734,1.039387076,-1,-1,0.892599481,1.070163465,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029207014
+0,Methane,ETR_separate,0.915326149,0.842877961,-1,-1,0.911001627,0.903389631,{'n_estimators': 150},0.029207014
+0,Methane,LGBM_separate,0.910198518,0.891492647,-1,-1,0.911383506,0.92259797,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029207014
+1,Methane,GBR_separate,0.879432799,1.173810119,-1,-1,0.899295148,1.052527318,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029204603
+1,Methane,ETR_separate,0.899863925,0.990903928,-1,-1,0.910790844,0.892964054,{'n_estimators': 150},0.029204603
+1,Methane,LGBM_separate,0.900671985,0.974259801,-1,-1,0.911945681,0.905740801,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029204603
+0,Methane,GBR_separate,0.897849871,0.967130438,-1,-1,0.900348269,1.195797526,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028690076
+0,Methane,ETR_separate,0.903929846,0.925819516,-1,-1,0.927814332,0.788697595,{'n_estimators': 150},0.028690076
+0,Methane,LGBM_separate,0.914816984,0.817342326,-1,-1,0.899308325,1.230930819,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028690076
+1,Methane,GBR_separate,0.882671482,1.108602304,-1,-1,0.901124849,1.194208848,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029498469
+1,Methane,ETR_separate,0.898891539,0.949243495,-1,-1,0.931276766,0.737450328,{'n_estimators': 120},0.029498469
+1,Methane,LGBM_separate,0.902613105,0.912643487,-1,-1,0.908147854,1.074646217,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029498469
+0,Methane,GBR_separate,0.904877877,0.960498063,-1,-1,0.893925243,0.989379674,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028364822
+0,Methane,ETR_separate,0.915961298,0.856624987,-1,-1,0.884934895,0.960817457,{'n_estimators': 200},0.028364822
+0,Methane,LGBM_separate,0.916037426,0.84567877,-1,-1,0.893598868,0.935565762,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028364822
+1,Methane,GBR_separate,0.900206975,1.008323723,-1,-1,0.897226495,0.938180281,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028858681
+1,Methane,ETR_separate,0.910692553,0.904823174,-1,-1,0.886577489,0.944147998,{'n_estimators': 150},0.028858681
+1,Methane,LGBM_separate,0.908438486,0.92538059,-1,-1,0.883351445,1.019998373,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028858681
+0,Methane,GBR_separate,0.885976714,1.081656302,-1,-1,0.9305562,0.712394125,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028757618
+0,Methane,ETR_separate,0.901816666,0.945213453,-1,-1,0.931186177,0.679873635,{'n_estimators': 150},0.028757618
+0,Methane,LGBM_separate,0.900470883,0.960097974,-1,-1,0.938565243,0.63456874,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028757618
+1,Methane,GBR_separate,0.88663079,1.039299671,-1,-1,0.929061426,0.759344981,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029224403
+1,Methane,ETR_separate,0.903849151,0.888384258,-1,-1,0.931819746,0.677385699,{'n_estimators': 150},0.029224403
+1,Methane,LGBM_separate,0.906575201,0.857385441,-1,-1,0.941780176,0.606757274,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029224403
+0,Methane,GBR_separate,0.904378254,0.932626619,-1,-1,0.891208373,1.122467211,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028207901
+0,Methane,ETR_separate,0.918795613,0.792962467,-1,-1,0.868493015,1.250485702,{'n_estimators': 150},0.028207901
+0,Methane,LGBM_separate,0.917276139,0.805070247,-1,-1,0.900293353,1.005782079,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028207901
+1,Methane,GBR_separate,0.895127502,0.994762807,-1,-1,0.88111878,1.213210045,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028589655
+1,Methane,ETR_separate,0.910518432,0.845197347,-1,-1,0.868762214,1.262944825,{'n_estimators': 150},0.028589655
+1,Methane,LGBM_separate,0.906243932,0.886092779,-1,-1,0.892815443,1.083793845,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028589655
+0,Methane,GBR_separate,0.900322615,1.009242397,-1,-1,0.868542476,1.23175238,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027960175
+0,Methane,ETR_separate,0.91486786,0.871925411,-1,-1,0.891839916,0.921918718,{'n_estimators': 200},0.027960175
+0,Methane,LGBM_separate,0.919407947,0.824284661,-1,-1,0.891039272,1.015857202,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027960175
+1,Methane,GBR_separate,0.904635017,0.935397977,-1,-1,0.833486609,1.665740325,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029834347
+1,Methane,ETR_separate,0.909509281,0.882464323,-1,-1,0.892543183,0.923221475,{'n_estimators': 200},0.029834347
+1,Methane,LGBM_separate,0.911108899,0.869616851,-1,-1,0.893993722,0.991202496,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029834347
+0,Methane,GBR_separate,0.899686194,1.022540389,-1,-1,0.92659773,0.724936251,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028358751
+0,Methane,ETR_separate,0.904306014,0.983311676,-1,-1,0.932952551,0.630612206,{'n_estimators': 150},0.028358751
+0,Methane,LGBM_separate,0.912719351,0.891505025,-1,-1,0.925597037,0.703414396,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028358751
+1,Methane,GBR_separate,0.882791986,1.198276011,-1,-1,0.924800533,0.718712709,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02878665
+1,Methane,ETR_separate,0.897311493,1.035853574,-1,-1,0.930101228,0.661396563,{'n_estimators': 180},0.02878665
+1,Methane,LGBM_separate,0.90191738,0.995413871,-1,-1,0.921885362,0.738087365,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02878665
+0,Methane,GBR_separate,0.901516113,0.981419787,-1,-1,0.904042632,0.895386785,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027929286
+0,Methane,ETR_separate,0.918607803,0.820845624,-1,-1,0.898384466,0.937481467,{'n_estimators': 150},0.027929286
+0,Methane,LGBM_separate,0.918837557,0.822859568,-1,-1,0.914033229,0.817020712,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027929286
+1,Methane,GBR_separate,0.901019048,1.004064953,-1,-1,0.897552553,0.999831526,"{'learning_rate': 0.5, 'n_estimators': 200}",0.0293689
+1,Methane,ETR_separate,0.915200126,0.858326201,-1,-1,0.893829846,0.981494174,{'n_estimators': 180},0.0293689
+1,Methane,LGBM_separate,0.919562725,0.815685739,-1,-1,0.908893807,0.869365401,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.0293689
+0,Methane,GBR_separate,0.885487051,1.131162754,-1,-1,0.939956987,0.681014685,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028621763
+0,Methane,ETR_separate,0.905961681,0.929509065,-1,-1,0.927128338,0.755474408,{'n_estimators': 150},0.028621763
+0,Methane,LGBM_separate,0.899276547,0.993756493,-1,-1,0.941428036,0.631548486,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028621763
+1,Methane,GBR_separate,0.898383371,0.991135608,-1,-1,0.923962708,0.840173272,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029143234
+1,Methane,ETR_separate,0.913742741,0.841499099,-1,-1,0.919532311,0.835213679,{'n_estimators': 150},0.029143234
+1,Methane,LGBM_separate,0.918877811,0.794229854,-1,-1,0.933051237,0.734899817,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029143234
+0,Methane,GBR_separate,0.903587444,0.965189566,-1,-1,0.895202635,0.829966089,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028515742
+0,Methane,ETR_separate,0.909596392,0.900810605,-1,-1,0.918003155,0.624782886,{'n_estimators': 120},0.028515742
+0,Methane,LGBM_separate,0.91391477,0.859950555,-1,-1,0.908013331,0.73079183,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028515742
+1,Methane,GBR_separate,0.890333268,1.118166868,-1,-1,0.888828847,0.881113022,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02923603
+1,Methane,ETR_separate,0.907996407,0.945070674,-1,-1,0.919131457,0.613545072,{'n_estimators': 120},0.02923603
+1,Methane,LGBM_separate,0.903937371,0.980484654,-1,-1,0.911944746,0.694875428,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02923603
+0,Methane,GBR_separate,0.904069133,0.921751102,-1,-1,0.905238317,0.985727687,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02883765
+0,Methane,ETR_separate,0.912211048,0.851835148,-1,-1,0.927277836,0.708472092,{'n_estimators': 200},0.02883765
+0,Methane,LGBM_separate,0.921160028,0.760762422,-1,-1,0.925518185,0.750352373,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02883765
+1,Methane,GBR_separate,0.890998893,1.017949167,-1,-1,0.917766224,0.871268355,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028538021
+1,Methane,ETR_separate,0.903074239,0.916105362,-1,-1,0.922987702,0.746892797,{'n_estimators': 150},0.028538021
+1,Methane,LGBM_separate,0.907357827,0.87290435,-1,-1,0.921794718,0.808242648,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028538021
+0,Methane,GBR_separate,0.904787738,0.952168996,-1,-1,0.896188278,1.038591819,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027474896
+0,Methane,ETR_separate,0.914013669,0.871248816,-1,-1,0.898829303,0.890081671,{'n_estimators': 120},0.027474896
+0,Methane,LGBM_separate,0.910742576,0.893124541,-1,-1,0.910594084,0.832242418,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027474896
+1,Methane,GBR_separate,0.89186227,1.041314107,-1,-1,0.892567354,1.053472499,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02797436
+1,Methane,ETR_separate,0.911166143,0.870060422,-1,-1,0.901793034,0.863381593,{'n_estimators': 150},0.02797436
+1,Methane,LGBM_separate,0.911124009,0.868825839,-1,-1,0.91382249,0.80439811,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02797436
+0,Methane,GBR_separate,0.903152978,0.959321697,-1,-1,0.907981383,0.906321053,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028548331
+0,Methane,ETR_separate,0.908230491,0.922818876,-1,-1,0.918006222,0.746066636,{'n_estimators': 150},0.028548331
+0,Methane,LGBM_separate,0.912403981,0.879331711,-1,-1,0.916065301,0.802664037,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028548331
+1,Methane,GBR_separate,0.889239263,1.098269351,-1,-1,0.902773042,1.010884885,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02907054
+1,Methane,ETR_separate,0.895171736,1.041812766,-1,-1,0.916450522,0.753502429,{'n_estimators': 120},0.02907054
+1,Methane,LGBM_separate,0.89903276,1.003716836,-1,-1,0.918170118,0.784653103,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02907054
+0,Methane,GBR_separate,0.902928441,0.983734708,-1,-1,0.924075626,0.693497429,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028744101
+0,Methane,ETR_separate,0.904544059,0.976111108,-1,-1,0.932948076,0.562699188,{'n_estimators': 200},0.028744101
+0,Methane,LGBM_separate,0.903725446,0.975280338,-1,-1,0.95308606,0.400409181,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028744101
+1,Methane,GBR_separate,0.887045732,1.145335086,-1,-1,0.91708549,0.744446609,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02979901
+1,Methane,ETR_separate,0.896619636,1.043539222,-1,-1,0.935430604,0.546698697,{'n_estimators': 200},0.02979901
+1,Methane,LGBM_separate,0.894161004,1.064458252,-1,-1,0.952908925,0.418550697,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02979901
+0,Methane,GBR_separate,0.894929484,1.057350103,-1,-1,0.910345511,0.82156759,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028583386
+0,Methane,ETR_separate,0.907969265,0.929496861,-1,-1,0.900718523,0.809863806,{'n_estimators': 120},0.028583386
+0,Methane,LGBM_separate,0.909964686,0.90687567,-1,-1,0.920855813,0.697290485,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028583386
+1,Methane,GBR_separate,0.893922989,1.06285018,-1,-1,0.908307857,0.817268369,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028750944
+1,Methane,ETR_separate,0.908468732,0.923325401,-1,-1,0.894857368,0.854678807,{'n_estimators': 150},0.028750944
+1,Methane,LGBM_separate,0.904126493,0.968677486,-1,-1,0.910552643,0.771906248,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028750944
+0,Methane,GBR_separate,0.892586121,1.046915354,-1,-1,0.909438264,0.907302337,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027762096
+0,Methane,ETR_separate,0.904092712,0.936464948,-1,-1,0.903111917,0.875590729,{'n_estimators': 120},0.027762096
+0,Methane,LGBM_separate,0.905751429,0.918385385,-1,-1,0.924400925,0.728829561,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027762096
+1,Methane,GBR_separate,0.889813004,1.054990937,-1,-1,0.898685641,0.979649571,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028481822
+1,Methane,ETR_separate,0.900355643,0.955430751,-1,-1,0.902630231,0.872553905,{'n_estimators': 120},0.028481822
+1,Methane,LGBM_separate,0.906090154,0.900828815,-1,-1,0.918121856,0.774566716,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028481822
+0,Methane,GBR_separate,0.905718461,0.968140392,-1,-1,0.85717679,1.142168449,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029009253
+0,Methane,ETR_separate,0.914687019,0.875669175,-1,-1,0.866754693,1.046086034,{'n_estimators': 120},0.029009253
+0,Methane,LGBM_separate,0.91665999,0.855472333,-1,-1,0.879374728,0.937750466,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029009253
+1,Methane,GBR_separate,0.908593611,0.921805115,-1,-1,0.824906596,1.453816961,"{'learning_rate': 0.5, 'n_estimators': 200}",0.030574249
+1,Methane,ETR_separate,0.91642508,0.846948077,-1,-1,0.867635666,1.049670767,{'n_estimators': 150},0.030574249
+1,Methane,LGBM_separate,0.919980519,0.811734005,-1,-1,0.853607237,1.171312142,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.030574249
+0,Methane,GBR_separate,0.890770443,1.111207575,-1,-1,0.913474897,0.863102129,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028461568
+0,Methane,ETR_separate,0.902161892,0.981600565,-1,-1,0.923802807,0.706105818,{'n_estimators': 200},0.028461568
+0,Methane,LGBM_separate,0.904449985,0.975803297,-1,-1,0.931810177,0.671308189,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028461568
+1,Methane,GBR_separate,0.879994168,1.17846413,-1,-1,0.904519126,0.934022622,"{'learning_rate': 0.5, 'n_estimators': 200}",0.030211669
+1,Methane,ETR_separate,0.908379542,0.896060611,-1,-1,0.919703788,0.735445498,{'n_estimators': 150},0.030211669
+1,Methane,LGBM_separate,0.904591637,0.92769068,-1,-1,0.925316386,0.732668786,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.030211669
+0,Methane,GBR_separate,0.91795484,0.831021734,-1,-1,0.896226546,1.077126854,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029141172
+0,Methane,ETR_separate,0.921500179,0.79418527,-1,-1,0.876897659,1.130075107,{'n_estimators': 120},0.029141172
+0,Methane,LGBM_separate,0.921068477,0.797105731,-1,-1,0.903509221,0.907222988,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029141172
+1,Methane,GBR_separate,0.892631152,0.991705004,-1,-1,0.916931365,0.777208056,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028377277
+1,Methane,ETR_separate,0.908643409,0.845312391,-1,-1,0.884094587,0.989153728,{'n_estimators': 180},0.028377277
+1,Methane,LGBM_separate,0.904771925,0.872612969,-1,-1,0.910966265,0.814425129,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028377277
+0,Methane,GBR_separate,0.896489092,1.030472996,-1,-1,0.887346971,1.13220296,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028041209
+0,Methane,ETR_separate,0.900473326,0.990818527,-1,-1,0.911697692,0.77838541,{'n_estimators': 120},0.028041209
+0,Methane,LGBM_separate,0.903766833,0.955250951,-1,-1,0.934461145,0.616317186,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028041209
+1,Methane,GBR_separate,0.886571653,1.086299986,-1,-1,0.902478747,0.952497034,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028541697
+1,Methane,ETR_separate,0.900487313,0.952479998,-1,-1,0.91148482,0.766812526,{'n_estimators': 150},0.028541697
+1,Methane,LGBM_separate,0.899145991,0.966416945,-1,-1,0.932826103,0.617562252,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028541697
+0,Methane,GBR_separate,0.906116994,0.89744641,-1,-1,0.915849637,0.807208832,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02881895
+0,Methane,ETR_separate,0.900857685,0.955644542,-1,-1,0.919742216,0.73255307,{'n_estimators': 150},0.02881895
+0,Methane,LGBM_separate,0.914280132,0.826466121,-1,-1,0.934898093,0.636847927,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02881895
+1,Methane,GBR_separate,0.895731274,1.008158759,-1,-1,0.917693938,0.798018588,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029313473
+1,Methane,ETR_separate,0.907645355,0.89496421,-1,-1,0.931050156,0.626955354,{'n_estimators': 150},0.029313473
+1,Methane,LGBM_separate,0.909146928,0.877692316,-1,-1,0.93896134,0.584236994,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029313473
+0,Methane,GBR_separate,0.906985477,0.890265402,-1,-1,0.936262572,0.774569333,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02896928
+0,Methane,ETR_separate,0.909621973,0.871980543,-1,-1,0.937535595,0.739688939,{'n_estimators': 150},0.02896928
+0,Methane,LGBM_separate,0.906039834,0.89566628,-1,-1,0.941952559,0.696270902,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02896928
+1,Methane,GBR_separate,0.881447023,1.161697723,-1,-1,0.931723675,0.878375324,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029627221
+1,Methane,ETR_separate,0.901967236,0.955435071,-1,-1,0.933714696,0.786207337,{'n_estimators': 120},0.029627221
+1,Methane,LGBM_separate,0.899181713,0.978404288,-1,-1,0.924911619,0.92012282,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029627221
+0,Methane,GBR_separate,0.910832568,0.874183342,-1,-1,0.885780607,1.189015792,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028652118
+0,Methane,ETR_separate,0.921042253,0.771587949,-1,-1,0.879239841,1.076564531,{'n_estimators': 150},0.028652118
+0,Methane,LGBM_separate,0.920772278,0.774464781,-1,-1,0.896453217,0.985917995,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028652118
+1,Methane,GBR_separate,0.898283273,1.017313372,-1,-1,0.882777249,1.207861149,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029741276
+1,Methane,ETR_separate,0.916919013,0.831042047,-1,-1,0.8789859,1.077517979,{'n_estimators': 150},0.029741276
+1,Methane,LGBM_separate,0.907027388,0.929554317,-1,-1,0.903078489,0.942719878,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029741276
+0,Methane,GBR_separate,0.909162777,0.886914579,-1,-1,0.8656591,1.391922426,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028493118
+0,Methane,ETR_separate,0.918392976,0.803023774,-1,-1,0.869714612,1.236337843,{'n_estimators': 200},0.028493118
+0,Methane,LGBM_separate,0.921141003,0.777308075,-1,-1,0.887733279,1.078545478,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028493118
+1,Methane,GBR_separate,0.90296666,0.90925044,-1,-1,0.883666212,1.13148377,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028210786
+1,Methane,ETR_separate,0.920105035,0.751402234,-1,-1,0.869449145,1.231132342,{'n_estimators': 120},0.028210786
+1,Methane,LGBM_separate,0.923012182,0.726997914,-1,-1,0.886925128,1.093949443,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028210786
+0,Methane,GBR_separate,0.901977928,1.003002253,-1,-1,0.926112422,0.641505623,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027807925
+0,Methane,ETR_separate,0.914327922,0.878227874,-1,-1,0.928630775,0.59981727,{'n_estimators': 150},0.027807925
+0,Methane,LGBM_separate,0.918580353,0.833357619,-1,-1,0.928960286,0.604189349,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027807925
+1,Methane,GBR_separate,0.889473427,1.138006318,-1,-1,0.907601998,0.858702095,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028181921
+1,Methane,ETR_separate,0.911887029,0.909557874,-1,-1,0.930371671,0.58936822,{'n_estimators': 180},0.028181921
+1,Methane,LGBM_separate,0.907962286,0.941657135,-1,-1,0.927578031,0.61712722,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028181921
+0,Methane,GBR_separate,0.892075254,1.060263354,-1,-1,0.914887081,0.804553725,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027946459
+0,Methane,ETR_separate,0.907735112,0.909881254,-1,-1,0.928712049,0.665834305,{'n_estimators': 150},0.027946459
+0,Methane,LGBM_separate,0.907899654,0.905459977,-1,-1,0.931426827,0.647627884,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027946459
+1,Methane,GBR_separate,0.893561484,0.990727312,-1,-1,0.915206649,0.819758722,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029021523
+1,Methane,ETR_separate,0.904377823,0.885465808,-1,-1,0.930651902,0.647244436,{'n_estimators': 120},0.029021523
+1,Methane,LGBM_separate,0.90632471,0.866137891,-1,-1,0.934458334,0.628349398,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029021523
+0,Methane,GBR_separate,0.885032713,1.131924138,-1,-1,0.919466861,0.739087897,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029285652
+0,Methane,ETR_separate,0.894478228,1.019978798,-1,-1,0.935711461,0.559328568,{'n_estimators': 150},0.029285652
+0,Methane,LGBM_separate,0.896245803,1.007743529,-1,-1,0.92807456,0.65371423,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029285652
+1,Methane,GBR_separate,0.877653809,1.19311645,-1,-1,0.9095223,0.796385897,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029655185
+1,Methane,ETR_separate,0.894440468,1.029751548,-1,-1,0.932585839,0.578953567,{'n_estimators': 120},0.029655185
+1,Methane,LGBM_separate,0.891127472,1.057792405,-1,-1,0.928014123,0.649356265,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029655185
+0,Methane,GBR_separate,0.911346102,0.881652002,-1,-1,0.898931896,1.148569127,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02940837
+0,Methane,ETR_separate,0.911595253,0.884263094,-1,-1,0.919978696,0.856065493,{'n_estimators': 150},0.02940837
+0,Methane,LGBM_separate,0.921001938,0.790061602,-1,-1,0.91424285,0.946134368,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02940837
+1,Methane,GBR_separate,0.895262311,1.051393368,-1,-1,0.903372685,1.104200759,"{'learning_rate': 0.5, 'n_estimators': 200}",0.030245272
+1,Methane,ETR_separate,0.913523806,0.875442385,-1,-1,0.905566938,1.034309566,{'n_estimators': 120},0.030245272
+1,Methane,LGBM_separate,0.91450666,0.863280621,-1,-1,0.910414685,1.026410795,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.030245272
+0,Methane,GBR_separate,0.907012261,0.956071094,-1,-1,0.931932623,0.595862773,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027931836
+0,Methane,ETR_separate,0.903174537,0.995154995,-1,-1,0.919732752,0.694076431,{'n_estimators': 150},0.027931836
+0,Methane,LGBM_separate,0.912141756,0.901319616,-1,-1,0.931465881,0.598420587,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027931836
+1,Methane,GBR_separate,0.899407682,1.007815563,-1,-1,0.917383201,0.735849643,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029517275
+1,Methane,ETR_separate,0.900930081,0.98882201,-1,-1,0.915272659,0.735893801,{'n_estimators': 180},0.029517275
+1,Methane,LGBM_separate,0.908128426,0.919146711,-1,-1,0.932616058,0.589948151,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029517275
+0,Methane,GBR_separate,0.895899289,1.03951792,-1,-1,0.932606766,0.644790495,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029175138
+0,Methane,ETR_separate,0.914739425,0.858132562,-1,-1,0.930852183,0.645820751,{'n_estimators': 150},0.029175138
+0,Methane,LGBM_separate,0.916733294,0.835908112,-1,-1,0.935147688,0.607438454,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029175138
+1,Methane,GBR_separate,0.890454915,1.1040362,-1,-1,0.938396447,0.584303965,"{'learning_rate': 0.5, 'n_estimators': 200}",0.030067079
+1,Methane,ETR_separate,0.900258639,1.002837545,-1,-1,0.929276453,0.661634336,{'n_estimators': 150},0.030067079
+1,Methane,LGBM_separate,0.90035155,1.004342861,-1,-1,0.928669834,0.674500862,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.030067079
+0,Methane,GBR_separate,0.903961626,0.965029683,-1,-1,0.883905425,0.916983053,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027788765
+0,Methane,ETR_separate,0.904582053,0.960157403,-1,-1,0.91406733,0.649841066,{'n_estimators': 150},0.027788765
+0,Methane,LGBM_separate,0.908722623,0.919219255,-1,-1,0.883167779,0.925208233,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027788765
+1,Methane,GBR_separate,0.897670787,1.012826881,-1,-1,0.884590202,0.929358846,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028054858
+1,Methane,ETR_separate,0.903349311,0.951338703,-1,-1,0.900418693,0.759061373,{'n_estimators': 150},0.028054858
+1,Methane,LGBM_separate,0.908446563,0.906536459,-1,-1,0.874675078,0.996814736,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028054858
+0,Methane,GBR_separate,0.903957882,0.983650508,-1,-1,0.900762522,0.887636146,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027596381
+0,Methane,ETR_separate,0.91994414,0.813016175,-1,-1,0.884639537,0.946108788,{'n_estimators': 150},0.027596381
+0,Methane,LGBM_separate,0.91795686,0.835967493,-1,-1,0.899532638,0.849522244,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027596381
+1,Methane,GBR_separate,0.901806039,0.983689116,-1,-1,0.861920051,1.151673711,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028686836
+1,Methane,ETR_separate,0.911660742,0.892693738,-1,-1,0.870309717,1.052336186,{'n_estimators': 150},0.028686836
+1,Methane,LGBM_separate,0.912588759,0.877746821,-1,-1,0.888262606,0.942703081,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028686836
+0,Methane,GBR_separate,0.880885439,1.176670077,-1,-1,0.915576301,0.814983351,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027798343
+0,Methane,ETR_separate,0.905623156,0.938167349,-1,-1,0.880733653,1.084330723,{'n_estimators': 120},0.027798343
+0,Methane,LGBM_separate,0.902605148,0.970608716,-1,-1,0.906405985,0.893568424,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027798343
+1,Methane,GBR_separate,0.89485767,1.045677542,-1,-1,0.891417872,1.017184573,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028285877
+1,Methane,ETR_separate,0.912691159,0.870258645,-1,-1,0.877213846,1.114944501,{'n_estimators': 150},0.028285877
+1,Methane,LGBM_separate,0.906047078,0.939206326,-1,-1,0.90127631,0.954261171,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028285877
+0,Methane,GBR_separate,0.904198992,0.966220892,-1,-1,0.927964947,0.649521966,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028497996
+0,Methane,ETR_separate,0.908125897,0.928754962,-1,-1,0.933992091,0.558721773,{'n_estimators': 150},0.028497996
+0,Methane,LGBM_separate,0.910744612,0.898197009,-1,-1,0.935530794,0.580805772,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028497996
+1,Methane,GBR_separate,0.897915924,1.022659138,-1,-1,0.918150384,0.760630617,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02967222
+1,Methane,ETR_separate,0.906072842,0.955257764,-1,-1,0.931534175,0.581998197,{'n_estimators': 150},0.02967222
+1,Methane,LGBM_separate,0.913746103,0.87922331,-1,-1,0.928401083,0.635558379,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02967222
+0,Methane,GBR_separate,0.899415402,0.996251462,-1,-1,0.897666472,1.042746794,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028245664
+0,Methane,ETR_separate,0.90754753,0.910763759,-1,-1,0.922755779,0.731748122,{'n_estimators': 150},0.028245664
+0,Methane,LGBM_separate,0.913787106,0.847004628,-1,-1,0.913207053,0.875155501,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028245664
+1,Methane,GBR_separate,0.893376601,1.05106938,-1,-1,0.895615521,1.012638032,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028789474
+1,Methane,ETR_separate,0.906715673,0.920950153,-1,-1,0.918923151,0.74607162,{'n_estimators': 120},0.028789474
+1,Methane,LGBM_separate,0.906305458,0.924674355,-1,-1,0.910240871,0.877381561,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028789474
+0,Methane,GBR_separate,0.906128126,0.886032404,-1,-1,0.902706345,1.153498771,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028416403
+0,Methane,ETR_separate,0.911479983,0.835141863,-1,-1,0.907125977,0.992700863,{'n_estimators': 150},0.028416403
+0,Methane,LGBM_separate,0.917613793,0.775877745,-1,-1,0.92371398,0.884840298,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028416403
+1,Methane,GBR_separate,0.886240939,1.083480539,-1,-1,0.913761747,1.030133285,"{'learning_rate': 0.5, 'n_estimators': 200}",0.030400628
+1,Methane,ETR_separate,0.892650494,1.02426786,-1,-1,0.898002834,1.080501159,{'n_estimators': 150},0.030400628
+1,Methane,LGBM_separate,0.892194531,1.027056047,-1,-1,0.919752834,0.935695605,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.030400628
+0,Methane,GBR_separate,0.89159877,1.085996777,-1,-1,0.907694744,0.844592513,"{'learning_rate': 0.5, 'n_estimators': 200}",0.02838397
+0,Methane,ETR_separate,0.91134937,0.902569106,-1,-1,0.911244119,0.731519445,{'n_estimators': 120},0.02838397
+0,Methane,LGBM_separate,0.907294746,0.939945315,-1,-1,0.932245444,0.591204276,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.02838397
+1,Methane,GBR_separate,0.882803724,1.162712801,-1,-1,0.896268948,0.963665284,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028713283
+1,Methane,ETR_separate,0.898035713,1.01443817,-1,-1,0.908623577,0.758749424,{'n_estimators': 120},0.028713283
+1,Methane,LGBM_separate,0.895397082,1.035707771,-1,-1,0.929105528,0.617055103,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028713283
+0,Methane,GBR_separate,0.909393336,0.924885974,-1,-1,0.880939247,0.960461635,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027950815
+0,Methane,ETR_separate,0.917123504,0.845914746,-1,-1,0.869990362,1.013855952,{'n_estimators': 150},0.027950815
+0,Methane,LGBM_separate,0.918584983,0.833646697,-1,-1,0.880535449,0.99090704,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027950815
+1,Methane,GBR_separate,0.906776834,0.929854436,-1,-1,0.876076225,1.009058112,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028429214
+1,Methane,ETR_separate,0.914485243,0.854453985,-1,-1,0.869832233,1.008612769,{'n_estimators': 150},0.028429214
+1,Methane,LGBM_separate,0.917891016,0.821383665,-1,-1,0.876662181,1.038655653,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028429214
+0,Methane,GBR_separate,0.909601764,0.917273526,-1,-1,0.868786522,1.306514515,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028280229
+0,Methane,ETR_separate,0.916572321,0.847297197,-1,-1,0.875705573,1.123738789,{'n_estimators': 150},0.028280229
+0,Methane,LGBM_separate,0.919763464,0.814161234,-1,-1,0.888490542,1.074492612,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028280229
+1,Methane,GBR_separate,0.904346931,0.956451507,-1,-1,0.861761088,1.340855296,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029353261
+1,Methane,ETR_separate,0.904131896,0.955015652,-1,-1,0.863742806,1.2451752,{'n_estimators': 120},0.029353261
+1,Methane,LGBM_separate,0.90187904,0.982016949,-1,-1,0.871324762,1.245486701,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029353261
+0,Methane,GBR_separate,0.901838277,0.957996521,-1,-1,0.843160376,1.395177296,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028005809
+0,Methane,ETR_separate,0.914901928,0.828573768,-1,-1,0.841595575,1.249432538,{'n_estimators': 150},0.028005809
+0,Methane,LGBM_separate,0.916223826,0.815044615,-1,-1,0.853182073,1.254176638,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028005809
+1,Methane,GBR_separate,0.907379133,0.915455251,-1,-1,0.847709637,1.406165107,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028757619
+1,Methane,ETR_separate,0.913982738,0.848879598,-1,-1,0.848238522,1.19956423,{'n_estimators': 120},0.028757619
+1,Methane,LGBM_separate,0.915962778,0.830402231,-1,-1,0.853476567,1.263551087,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028757619
+0,Methane,GBR_separate,0.908820708,0.907344109,-1,-1,0.88459782,0.98353122,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027978172
+0,Methane,ETR_separate,0.919240286,0.813247605,-1,-1,0.878982486,1.01431587,{'n_estimators': 150},0.027978172
+0,Methane,LGBM_separate,0.920123799,0.79968866,-1,-1,0.8900204,0.965278075,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027978172
+1,Methane,GBR_separate,0.900640077,1.015939795,-1,-1,0.863544027,1.225305903,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028455908
+1,Methane,ETR_separate,0.911722463,0.896311634,-1,-1,0.874688244,1.060416817,{'n_estimators': 150},0.028455908
+1,Methane,LGBM_separate,0.914688929,0.872104198,-1,-1,0.887332107,1.006739338,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028455908
+0,Methane,GBR_separate,0.89618397,1.045574765,-1,-1,0.912714628,0.844498664,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028841309
+0,Methane,ETR_separate,0.907155181,0.950924012,-1,-1,0.924032364,0.661846941,{'n_estimators': 150},0.028841309
+0,Methane,LGBM_separate,0.904898154,0.97031708,-1,-1,0.921560754,0.725078743,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028841309
+1,Methane,GBR_separate,0.906232372,0.953116604,-1,-1,0.919584248,0.77108516,"{'learning_rate': 0.5, 'n_estimators': 200}",0.030238405
+1,Methane,ETR_separate,0.916482455,0.846864662,-1,-1,0.922587701,0.682904321,{'n_estimators': 120},0.030238405
+1,Methane,LGBM_separate,0.912986909,0.881071961,-1,-1,0.919953208,0.751315246,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.030238405
+0,Methane,GBR_separate,0.89134559,1.098327176,-1,-1,0.910348711,0.715360011,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028406745
+0,Methane,ETR_separate,0.910275137,0.897592489,-1,-1,0.921265295,0.658638181,{'n_estimators': 150},0.028406745
+0,Methane,LGBM_separate,0.90754242,0.925448663,-1,-1,0.932430517,0.581172907,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028406745
+1,Methane,GBR_separate,0.873354595,1.256558565,-1,-1,0.923693205,0.653621738,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028849121
+1,Methane,ETR_separate,0.89012608,1.084778592,-1,-1,0.917655627,0.676057531,{'n_estimators': 150},0.028849121
+1,Methane,LGBM_separate,0.887709411,1.103031208,-1,-1,0.933147653,0.574484722,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028849121
+0,Methane,GBR_separate,0.907473427,0.900162906,-1,-1,0.86239508,1.194310775,"{'learning_rate': 0.5, 'n_estimators': 200}",0.028597297
+0,Methane,ETR_separate,0.918869306,0.779823244,-1,-1,0.8459092,1.241599496,{'n_estimators': 150},0.028597297
+0,Methane,LGBM_separate,0.918180404,0.793676114,-1,-1,0.859916546,1.203395822,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.028597297
+1,Methane,GBR_separate,0.913860051,0.82727686,-1,-1,0.862325554,1.230541644,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029408656
+1,Methane,ETR_separate,0.922620827,0.74131921,-1,-1,0.835743515,1.334045124,{'n_estimators': 200},0.029408656
+1,Methane,LGBM_separate,0.921321899,0.755887004,-1,-1,0.864046979,1.176140159,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029408656
+0,Methane,GBR_separate,0.900996231,0.995217723,-1,-1,0.900438855,1.01671616,"{'learning_rate': 0.5, 'n_estimators': 200}",0.027952415
+0,Methane,ETR_separate,0.907345492,0.930218088,-1,-1,0.893835411,0.970932082,{'n_estimators': 150},0.027952415
+0,Methane,LGBM_separate,0.905544147,0.947471031,-1,-1,0.89490903,1.037583569,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.027952415
+1,Methane,GBR_separate,0.893290098,1.06473243,-1,-1,0.882199982,1.16979476,"{'learning_rate': 0.5, 'n_estimators': 200}",0.029207193
+1,Methane,ETR_separate,0.906097971,0.942405554,-1,-1,0.881390169,1.112467955,{'n_estimators': 150},0.029207193
+1,Methane,LGBM_separate,0.905471703,0.947380034,-1,-1,0.868922314,1.276117189,"{'learning_rate': 0.1, 'n_estimators': 200, 'num_leaves': 50}",0.029207193

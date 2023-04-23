@@ -1,0 +1,2 @@
+,Gas,Model_name,CV_r2,CV_mse,test_r2_total_model,test_mse_by_total_model,test_r2_separa_model,test_mse_separa_model,best_param,BET,Vt,S,V,Temp(K),Pressure
+0,Methane,LGBM_separate,0.8920586320179933,1.0914204021275034,-1,-1,0.9232003621371714,0.7492147052176021,"{'learning_rate': 0.5, 'n_estimators': 300, 'num_leaves': 30}",2283,2057,0,0,991,3369
